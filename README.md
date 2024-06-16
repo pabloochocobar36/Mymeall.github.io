@@ -1,5 +1,5 @@
 # Mymeall.github.io
-- **Welcome to the frontend repository of a food ordering website! This project is built entirely with HTML and CSS, showcasing a responsive and visually appealing design for a modern food ordering platform.**
+**Welcome to the frontend repository of a food ordering website! This project is built entirely with HTML and CSS, showcasing a responsive and visually appealing design for a modern food ordering platform.**
 
 ### Project Overview
 - **This project is a static frontend for a food ordering website, designed to provide an intuitive and engaging user experience. The website includes several key pages, each tailored to enhance the customer's journey from browsing the menu to placing an order.**
